@@ -1,0 +1,260 @@
+Netflix|tv|https://www.rottentomatoes.com/tv/the_haunting_of_hill_house/s01|Oct 12, 2018|92%|85|91%|2,983|
+FX|tv|https://www.rottentomatoes.com/tv/pose/s01|Jun 3, 2018|97%|63|82%|395|
+Showtime|tv|https://www.rottentomatoes.com/tv/the_chi/s01|Jan 7, 2018|86%|44|74%|297|
+Netflix|tv|https://www.rottentomatoes.com/tv/arrested_development/s05|May 29, 2018|63%|43|69%|182|
+HBO|tv|https://www.rottentomatoes.com/tv/barry/s01|Mar 25, 2018|99%|75|89%|673|
+Netflix|tv|https://www.rottentomatoes.com/tv/g_l_o_w_/s02|Jun 29, 2018|99%|69|89%|548|
+TNT|tv|https://www.rottentomatoes.com/tv/the_alienist/s01|Jan 22, 2018|65%|72|77%|827|
+FX|tv|https://www.rottentomatoes.com/tv/atlanta/s02|Mar 1, 2018|98%|61|85%|581|
+ABC|tv|https://www.rottentomatoes.com/tv/the_conners/s01|Oct 16, 2018|92%|53|37%|429|
+Netflix|tv|https://www.rottentomatoes.com/tv/chilling_adventures_of_sabrina/s01|Oct 26, 2018|90%|92|79%|1,115|
+ABC|tv|https://www.rottentomatoes.com/tv/roseanne/s10|Mar 27, 2018|71%|76|70%|406|
+AMC|tv|https://www.rottentomatoes.com/tv/the_terror/s01|Mar 26, 2018|93%|45|86%|1,151|
+NBC|tv|https://www.rottentomatoes.com/tv/a_p_bio/s01|Feb 1, 2018|65%|31|70%|195|
+NBC|tv|https://www.rottentomatoes.com/tv/good_girls/s01|Feb 26, 2018|60%|45|87%|207|
+Hulu|tv|https://www.rottentomatoes.com/tv/the_handmaid_s_tale/s02|Apr 25, 2018|91%|86|79%|1,076|
+Netflix|tv|https://www.rottentomatoes.com/tv/jessica_jones/s02|Mar 8, 2018|83%|78|67%|1,579|
+Netflix|tv|https://www.rottentomatoes.com/tv/altered_carbon/s01|Feb 2, 2018|65%|86|90%|5,048|
+FX|tv|https://www.rottentomatoes.com/tv/american_crime_story/s02|Jan 17, 2018|88%|92|94%|1,174|
+Freeform|tv|https://www.rottentomatoes.com/tv/marvel_s_cloak_and_dagger/s01|Jun 7, 2018|89%|45|74%|1,029|
+FX|tv|https://www.rottentomatoes.com/tv/trust/s01|Mar 28, 2018|80%|59|75%|152|
+Amazon|tv|https://www.rottentomatoes.com/tv/forever_2018/s01|Sep 14, 2018|94%|35|77%|221|
+Netflix|tv|https://www.rottentomatoes.com/tv/disenchantment/s01|Aug 17, 2018|64%|72|75%|834|
+Amazon|tv|https://www.rottentomatoes.com/tv/jack_ryan/s01|Aug 31, 2018|74%|77|88%|1,671|
+AMC|tv|https://www.rottentomatoes.com/tv/the_little_drummer_girl/s01|Nov 19, 2018|89%|63|79%|119|
+Hulu|tv|https://www.rottentomatoes.com/tv/castle_rock/s01|Jul 25, 2018|86%|72|80%|1,186|
+AMC|tv|https://www.rottentomatoes.com/tv/dietland/s01|Jun 4, 2018|83%|52|70%|155|
+BBC America|tv|https://www.rottentomatoes.com/tv/killing_eve/s01|Apr 8, 2018|97%|86|88%|1,206|
+Netflix|tv|https://www.rottentomatoes.com/tv/the_end_of_the_f_ing_world/s01|Jan 5, 2018|98%|46|90%|3,500|
+AMC|tv|https://www.rottentomatoes.com/tv/lodge_49/s01|Aug 6, 2018|85%|33|80%|207|
+Netflix|tv|https://www.rottentomatoes.com/tv/the_innocents/s01|Aug 24, 2018|86%|43|75%|274|
+Netflix|tv|https://www.rottentomatoes.com/tv/lost_in_space/s01|Apr 13, 2018|69%|71|72%|2,176|
+Amazon|tv|https://www.rottentomatoes.com/tv/the_romanoffs/s01|Oct 12, 2018|48%|58|62%|131|
+USA|tv|https://www.rottentomatoes.com/tv/unsolved/s01|Feb 27, 2018|72%|25|65%|96|
+Amazon|tv|https://www.rottentomatoes.com/tv/homecoming/s01|Nov 2, 2018|98%|87|72%|719|
+Starz|tv|https://www.rottentomatoes.com/tv/vida/s01|May 6, 2018|100%|36|71%|413|
+Freeform|tv|https://www.rottentomatoes.com/tv/the_bold_type/s02|Jun 12, 2018|100%|25|80%|183|
+HBO|tv|https://www.rottentomatoes.com/tv/westworld/s02|Apr 22, 2018|86%|70|73%|1,977|
+Netflix|tv|https://www.rottentomatoes.com/tv/everything_sucks_/s01|Feb 16, 2018|72%|47|91%|622|
+Netflix|tv|https://www.rottentomatoes.com/tv/wild_wild_country/s01|Mar 16, 2018|98%|41|87%|809|
+Showtime|tv|https://www.rottentomatoes.com/tv/the_fourth_estate/s01|May 27, 2018|78%|27|87%|17|
+Amazon|tv|https://www.rottentomatoes.com/tv/picnic_at_hanging_rock/s01|May 25, 2018|80%|49|58%|100|
+Netflix|tv|https://www.rottentomatoes.com/tv/bodyguard/s01|Aug 26, 2018|92%|63|84%|852|
+NBC|tv|https://www.rottentomatoes.com/tv/champions/s01|Mar 8, 2018|63%|19|74%|58|
+TBS|tv|https://www.rottentomatoes.com/tv/the_last_o_g_/s01|Apr 3, 2018|82%|34|71%|137|
+Netflix|tv|https://www.rottentomatoes.com/tv/queer_eye_2018/s02|Jun 15, 2018|91%|22|82%|165|
+USA|tv|https://www.rottentomatoes.com/tv/the_purge/s01|Sep 4, 2018|45%|33|62%|196|
+HBO|tv|https://www.rottentomatoes.com/tv/random_acts_of_flyness/s01|Aug 3, 2018|100%|24|55%|49|
+HBO|tv|https://www.rottentomatoes.com/tv/camping/s01|Oct 14, 2018|33%|43|12%|82|
+CW|tv|https://www.rottentomatoes.com/tv/black_lightning/s01|Jan 16, 2018|96%|48|54%|2,208|
+Lifetime (Seasons 1-3) Hulu (Season 4)|tv|https://www.rottentomatoes.com/tv/unreal/s03|Feb 26, 2018|95%|21|83%|67|
+HBO|tv|https://www.rottentomatoes.com/tv/sharp_objects/s01|Jul 8, 2018|92%|116|78%|1,435|
+Showtime|tv|https://www.rottentomatoes.com/tv/the_affair/s04|Jun 17, 2018|91%|22|80%|168|
+Paramount|tv|https://www.rottentomatoes.com/tv/waco/s01|Jan 24, 2018|69%|42|73%|232|
+HBO|tv|https://www.rottentomatoes.com/tv/my_brilliant_friend/s01|Nov 18, 2018|94%|53|96%|126|
+Showtime|tv|https://www.rottentomatoes.com/tv/who_is_america_/s01|Jul 15, 2018|57%|63|82%|185|
+Netflix|tv|https://www.rottentomatoes.com/tv/one_day_at_a_time/s02|Jan 26, 2018|100%|27|93%|145|
+Showtime|tv|https://www.rottentomatoes.com/tv/patrick_melrose/s01|May 12, 2018|89%|64|41%|1,812|
+Netflix|tv|https://www.rottentomatoes.com/tv/13_reasons_why/s02|May 18, 2018|27%|49|53%|1,577|
+Starz|tv|https://www.rottentomatoes.com/tv/america_to_me/s01|Aug 26, 2018|100%|21|60%|41|
+Netflix|tv|https://www.rottentomatoes.com/tv/seven_seconds/s01|Feb 23, 2018|77%|43|84%|459|
+Netflix|tv|https://www.rottentomatoes.com/tv/orange_is_the_new_black/s06|Jul 27, 2018|82%|34|72%|259|
+Netflix|tv|https://www.rottentomatoes.com/tv/American_Vandal/s02|Sep 14, 2018|98%|42|91%|502|
+FX|tv|https://www.rottentomatoes.com/tv/the_americans/s06|Mar 28, 2018|99%|33|90%|378|
+FX|tv|https://www.rottentomatoes.com/tv/archer/s09|Apr 25, 2018|64%|11|59%|117|
+Netflix|tv|https://www.rottentomatoes.com/tv/unbreakable_kimmy_schmidt/s04|May 30, 2018|95%|20|71%|112|
+Freeform|tv|https://www.rottentomatoes.com/tv/grown_ish/s01|Jan 3, 2018|93%|30|62%|330|
+Netflix|tv|https://www.rottentomatoes.com/tv/queer_eye_2018/s01|Feb 7, 2018|97%|32|88%|570|
+HBO|tv|https://www.rottentomatoes.com/tv/here_and_now/s01|Feb 11, 2018|26%|47|85%|203|
+HBO|tv|https://www.rottentomatoes.com/tv/succession/s01|Jun 3, 2018|88%|72|79%|342|
+Netflix|tv|https://www.rottentomatoes.com/tv/insatiable/s01|Aug 10, 2018|12%|50|84%|3,167|
+Netflix|tv|https://www.rottentomatoes.com/tv/the_good_cop/s01|Sep 21, 2018|52%|25|84%|162|
+Showtime|tv|https://www.rottentomatoes.com/tv/kidding/s01|Sep 9, 2018|75%|73|87%|236|
+FOX|tv|https://www.rottentomatoes.com/tv/the_x_files/s11|Jan 3, 2018|78%|37|77%|418|
+FX|tv|https://www.rottentomatoes.com/tv/legion/s02|Apr 3, 2018|90%|36|84%|751|
+NBC|tv|https://www.rottentomatoes.com/tv/new_amsterdam_2018/s01|Sep 25, 2018|32%|28|84%|174|
+CW|tv|https://www.rottentomatoes.com/tv/life_sentence/s01|Mar 7, 2018|37%|19|81%|182|
+FOX|tv|https://www.rottentomatoes.com/tv/american_idol/s16|Mar 11, 2018|71%|21|35%|19|
+NBC|tv|https://www.rottentomatoes.com/tv/making_it/s01|Jul 31, 2018|100%|21|93%|91|
+HBO|tv|https://www.rottentomatoes.com/tv/sally4ever/s01|Nov 11, 2018|96%|26||0|
+Netflix|tv|https://www.rottentomatoes.com/tv/maniac/s01|Sep 21, 2018|82%|76|83%|1,706|
+HBO|tv|https://www.rottentomatoes.com/tv/silicon_valley/s05|Mar 25, 2018|89%|27|85%|146|
+NBC|tv|https://www.rottentomatoes.com/tv/manifest/s01|Sep 24, 2018|58%|33|75%|578|
+Starz|tv|https://www.rottentomatoes.com/tv/sweetbitter/s01|May 6, 2018|32%|22|87%|91|
+AMC|tv|https://www.rottentomatoes.com/tv/better_call_saul/s04|Aug 6, 2018|99%|39|94%|902|
+Hulu|tv|https://www.rottentomatoes.com/tv/the_first/s01|Sep 14, 2018|67%|58|79%|180|
+FX|tv|https://www.rottentomatoes.com/tv/mayans_m_c_/s01|Sep 4, 2018|71%|34|75%|339|
+CBS All Access|tv|https://www.rottentomatoes.com/tv/the_good_fight/s02|Mar 4, 2018|96%|27|90%|115|
+HBO|tv|https://www.rottentomatoes.com/tv/mosaic/s01|Jan 22, 2018|82%|34|59%|66|
+Viceland|tv|https://www.rottentomatoes.com/tv/the_hunt_for_the_trump_tapes_with_tom_arnold/s01|Sep 18, 2018|20%|10|25%|19|
+CBS|tv|https://www.rottentomatoes.com/tv/murphy_brown/s11|Sep 27, 2018|42%|45|43%|88|
+NBC|tv|https://www.rottentomatoes.com/tv/trial_error/s02|Jul 19, 2018|91%|11|94%|27|
+Netflix|tv|https://www.rottentomatoes.com/tv/my_next_guest_needs_no_introduction_with_david_letterman/s01|Jan 12, 2018|83%|29|81%|105|
+ABC|tv|https://www.rottentomatoes.com/tv/a_million_little_things/s01|Sep 26, 2018|53%|30|86%|239|
+Netflix|tv|https://www.rottentomatoes.com/tv/narcos_mexico/s01|Nov 16, 2018|85%|34|||
+Showtime|tv|https://www.rottentomatoes.com/tv/our_cartoon_president/s01|Feb 11, 2018|35%|23|46%|214|
+Netflix|tv|https://www.rottentomatoes.com/tv/marvel_s_iron_fist/s02|Sep 7, 2018|56%|43|72%|1,399|
+PBS/Netflix|tv|https://www.rottentomatoes.com/tv/the_great_british_baking_show/s05|Dec 8, 2017|92%|13|100%|12|
+NBC|tv|https://www.rottentomatoes.com/tv/good_place/s03|Sep 27, 2018|100%|34|85%|561|
+AMC/Sundance Now|tv|https://www.rottentomatoes.com/tv/mcmafia/s01|Feb 26, 2018|71%|34|87%|154|
+Audience|tv|https://www.rottentomatoes.com/tv/condor/s01|Jun 6, 2018|85%|13|91%|150|
+Netflix|tv|https://www.rottentomatoes.com/tv/house-of-cards/s06|Nov 2, 2018|72%|60|23%|581|
+ABC|tv|https://www.rottentomatoes.com/tv/station_19/s01|Mar 22, 2018|63%|16|28%|116|
+FX|tv|https://www.rottentomatoes.com/tv/mr_inbetween/s01|Sep 25, 2018|88%|17|100%|80|
+SyFy (Seasons 1-3); Amazon Studios|tv|https://www.rottentomatoes.com/tv/the_expanse/s03|Apr 11, 2018|100%|16|97%|1,232|
+ABC|tv|https://www.rottentomatoes.com/tv/how_to_get_away_with_murder/s05|Sep 27, 2018|100%|5|93%|68|
+Netflix|tv|https://www.rottentomatoes.com/tv/the_joel_mchale_show_with_joel_mchale/s01|Feb 18, 2018|83%|6|72%|66|
+Netflix|tv|https://www.rottentomatoes.com/tv/big_mouth/s02|Oct 5, 2018|100%|28|84%|528|
+Sundance|tv|https://www.rottentomatoes.com/tv/this_close/s01|Feb 14, 2018|100%|12|100%|18|
+Starz|tv|https://www.rottentomatoes.com/tv/howards_end/s01|Apr 8, 2018|90%|40|60%|98|
+HBO|tv|https://www.rottentomatoes.com/tv/2_dope_queens/s01|Feb 2, 2018|93%|14|50%|26|
+NBC|tv|https://www.rottentomatoes.com/tv/i_feel_bad/s01|Sep 19, 2018|27%|15|60%|99|
+CBS|tv|https://www.rottentomatoes.com/tv/god_friended_me/s01|Sep 30, 2018|59%|27|84%|194|
+Showtime|tv|https://www.rottentomatoes.com/tv/escape_at_dannemora/s01|Nov 18, 2018|90%|40|92%|135|
+FOX|tv|https://www.rottentomatoes.com/tv/9_1_1/s01|Jan 3, 2018|70%|33|70%|268|
+Netflix|tv|https://www.rottentomatoes.com/tv/norm_macdonald_has_a_show/s01|Sep 14, 2018|40%|10|98%|372|
+CBS|tv|https://www.rottentomatoes.com/tv/magnum_p_i_2018/s01|Sep 24, 2018|55%|20|44%|157|
+Netflix|tv|https://www.rottentomatoes.com/tv/on_my_block/s01|Mar 16, 2018|95%|19|98%|673|
+E!|tv|https://www.rottentomatoes.com/tv/citizen_rose/s01|Jan 30, 2018|85%|20|57%|8|
+Showtime|tv|https://www.rottentomatoes.com/tv/billions/s03|Mar 25, 2018|93%|27|90%|298|
+YouTube Premium|tv|https://www.rottentomatoes.com/tv/cobra_kai/s01|May 2, 2018|100%|36|95%|3,662|
+HBO|tv|https://www.rottentomatoes.com/tv/insecure/s03|Aug 12, 2018|93%|24|79%|87|
+Hulu|tv|https://www.rottentomatoes.com/tv/hard_sun/s01|Mar 7, 2018|50%|32|75%|111|
+Amazon|tv|https://www.rottentomatoes.com/tv/ordeal_by_innocence/s01|Aug 10, 2018|92%|24|75%|94|
+Paramount Network|tv|https://www.rottentomatoes.com/tv/american_woman/s01|Jun 7, 2018|44%|18|70%|72|
+Netflix|tv|https://www.rottentomatoes.com/tv/dirty_money/s01|Jan 26, 2018|100%|13|89%|161|
+EPIX|tv|https://www.rottentomatoes.com/tv/deep_state/s01|Jun 17, 2018|60%|10|84%|57|
+Starz|tv|https://www.rottentomatoes.com/tv/outlander/s04|Nov 4, 2018|92%|8|81%|170|
+ABC|tv|https://www.rottentomatoes.com/tv/splitting_up_together/s01|Mar 27, 2018|38%|21|90%|121|
+Netflix|tv|https://www.rottentomatoes.com/tv/ozark/s02|Aug 31, 2018|72%|36|90%|680|
+SyFy|tv|https://www.rottentomatoes.com/tv/krypton/s01|Mar 21, 2018|59%|39|79%|464|
+ABC|tv|https://www.rottentomatoes.com/tv/alex_inc_/s01|Mar 28, 2018|40%|15|75%|91|
+The CW|tv|https://www.rottentomatoes.com/tv/all_american/s01|Oct 10, 2018|91%|23|79%|130|
+Netflix|tv|https://www.rottentomatoes.com/tv/patriot_act_with_hasan_minhaj/s01|Oct 28, 2018|100%|15|76%|26|
+Freeform|tv|https://www.rottentomatoes.com/tv/alone_together/s01|Jan 10, 2018|62%|13|78%|62|
+HBO|tv|https://www.rottentomatoes.com/tv/wyatt_cenac_s_problem_areas/s01|Apr 13, 2018|100%|9|88%|12|
+ABC|tv|https://www.rottentomatoes.com/tv/the_crossing/s01|Apr 2, 2018|58%|19|86%|312|
+CBS|tv|https://www.rottentomatoes.com/tv/instinct/s01|Mar 18, 2018|56%|25|63%|149|
+Netflix|tv|https://www.rottentomatoes.com/tv/luke_cage/s02|Jun 22, 2018|83%|54|69%|954|
+Netflix|tv|https://www.rottentomatoes.com/tv/bobby_kennedy_for_president/s01|Apr 27, 2018|95%|21|85%|31|
+Netflix|tv|https://www.rottentomatoes.com/tv/making_a_murderer/s02|Oct 19, 2018|71%|35|98%|2,648|
+Facebook Watch|tv|https://www.rottentomatoes.com/tv/queen_america/s01|Nov 18, 2018|67%|12|||
+ABC|tv|https://www.rottentomatoes.com/tv/grey_s_anatomy/s15|Sep 27, 2018|100%|5|69%|45|
+OWN|tv|https://www.rottentomatoes.com/tv/queen_sugar/s03|May 29, 2018|100%|6|83%|20|
+HBO|tv|https://www.rottentomatoes.com/tv/divorce/s02|Jan 14, 2018|83%|12|77%|38|
+FX (seasons 1-8), FXX|tv|https://www.rottentomatoes.com/tv/it_s_always_sunny_in_philadelphia/s13|Sep 6, 2018|93%|15|75%|115|
+Netflix|tv|https://www.rottentomatoes.com/tv/the_kominsky_method/s01|Nov 16, 2018|79%|39|94%|150|
+Netflix|tv|https://www.rottentomatoes.com/tv/bojack_horseman/s05|Sep 14, 2018|97%|33|94%|829|
+Hulu|tv|https://www.rottentomatoes.com/tv/the_looming_tower/s01|Feb 28, 2018|94%|52|62%|537|
+CW|tv|https://www.rottentomatoes.com/tv/izombie/s04|Feb 26, 2018|92%|12|78%|155|
+USA|tv|https://www.rottentomatoes.com/tv/the_sinner/s02|Aug 1, 2018|97%|29|84%|911|
+BBC One|tv|https://www.rottentomatoes.com/tv/a_very_english_scandal/s01|May 20, 2018|97%|62|75%|175|
+HBO|tv|https://www.rottentomatoes.com/tv/the_zen_diaries_of_garry_shandling/s01|Mar 26, 2018|93%|15|92%|39|
+IFC|tv|https://www.rottentomatoes.com/tv/brockmire/s02|Apr 25, 2018|100%|11|100%|21|
+NBC|tv|https://www.rottentomatoes.com/tv/timeless/s02|Mar 11, 2018|100%|14|96%|603|
+National Geographic|tv|https://www.rottentomatoes.com/tv/genius/s02|Apr 24, 2018|52%|21|18%|114|
+Netflix|tv|https://www.rottentomatoes.com/tv/ugly_delicious/s01|Feb 23, 2018|100%|16|75%|86|
+Freeform|tv|https://www.rottentomatoes.com/tv/siren/s01|Mar 29, 2018|94%|17|86%|369|
+ABC|tv|https://www.rottentomatoes.com/tv/deception_2018/s01|Mar 11, 2018|60%|10|92%|286|
+FX|tv|https://www.rottentomatoes.com/tv/snowfall/s02|Jul 19, 2018|100%|7|87%|120|
+Lifetime|tv|https://www.rottentomatoes.com/tv/you/s01|Sep 9, 2018|90%|31|92%|194|
+Facebook Watch|tv|https://www.rottentomatoes.com/tv/sorry_for_your_loss/s01|Sep 18, 2018|93%|28|87%|183|
+Comedy Central|tv|https://www.rottentomatoes.com/tv/south_park/s22|Sep 26, 2018|73%|11|79%|94|
+Paramount Network|tv|https://www.rottentomatoes.com/tv/yellowstone/s01|Jun 20, 2018|54%|37|85%|581|
+Amazon|tv|https://www.rottentomatoes.com/tv/the_man_in_the_high_castle/s03|Oct 5, 2018|88%|17|87%|267|
+The CW|tv|https://www.rottentomatoes.com/tv/charmed_2018/s01|Oct 14, 2018|66%|29|27%|317|
+FOX; Cartoon Network|tv|https://www.rottentomatoes.com/tv/bob_s_burgers/s09|Sep 30, 2018|100%|1|80%|14|
+Netflix|tv|https://www.rottentomatoes.com/tv/alexa_katie/s01|Mar 23, 2018|100%|7|80%|31|
+TNT|tv|https://www.rottentomatoes.com/tv/claws/s02|Jun 10, 2018|88%|8|88%|71|
+CBS|tv|https://www.rottentomatoes.com/tv/elementary/s06|Apr 30, 2018|100%|6|93%|101|
+ABC (Seasons 1-6); FOX|tv|https://www.rottentomatoes.com/tv/last_man_standing/s07|Sep 28, 2018|58%|12|87%|117|
+Amazon|tv|https://www.rottentomatoes.com/tv/bosch/s04|Apr 13, 2018|100%|10|100%|85|
+ARD|tv|https://www.rottentomatoes.com/tv/deutschland_83/s02|Oct 25, 2018|100%|9|100%|8|
+Netflix|tv|https://www.rottentomatoes.com/tv/sacred_games/s01|Jul 6, 2018|90%|20|94%|1,425|
+Hulu|tv|https://www.rottentomatoes.com/tv/national_treasure/s02|Apr 4, 2018|83%|6|100%|4|
+Facebook Watch|tv|https://www.rottentomatoes.com/tv/sacred_lies/s01|Jul 27, 2018|50%|2|100%|11|
+CBS All Access|tv|https://www.rottentomatoes.com/tv/one_dollar/s01|Aug 30, 2018|78%|9|94%|40|
+Netflix|tv|https://www.rottentomatoes.com/tv/safe/s01|May 10, 2018|77%|22|79%|353|
+Netflix|tv|https://www.rottentomatoes.com/tv/the_rain/s01|May 4, 2018|81%|31|59%|518|
+Showtime|tv|https://www.rottentomatoes.com/tv/homeland/s07|Feb 11, 2018|76%|15|78%|213|
+POP|tv|https://www.rottentomatoes.com/tv/let_s_get_physical/s01|Jan 24, 2018|100%|1|83%|22|
+Netflix|tv|https://www.rottentomatoes.com/tv/salt_fat_acid_heat/s01|Oct 11, 2018|100%|9|71%|17|
+Netflix|tv|https://www.rottentomatoes.com/tv/dear_white_people/s02|May 4, 2018|100%|30|62%|426|
+TBS|tv|https://www.rottentomatoes.com/tv/full_frontal_with_samantha_bee/s03|Feb 7, 2018|100%|1|6%|35|
+Bravo|tv|https://www.rottentomatoes.com/tv/dirty_john/s01|Nov 25, 2018|65%|23|60%|20|
+Showtime|tv|https://www.rottentomatoes.com/tv/shameless/s09|Sep 9, 2018|67%|6|68%|60|
+Netflix|tv|https://www.rottentomatoes.com/tv/nailed_it/s01|Mar 9, 2018|100%|10|69%|44|
+Netflix|tv|https://www.rottentomatoes.com/tv/elite/s01|Oct 5, 2018|100%|10|84%|256|
+Sundance Now|tv|https://www.rottentomatoes.com/tv/next_of_kin/s01|Jun 21, 2018|67%|6|100%|7|
+Showtime|tv|https://www.rottentomatoes.com/tv/shut_up_and_dribble/s01|Nov 3, 2018|86%|7|||
+Netflix|tv|https://www.rottentomatoes.com/tv/atypical/s02|Sep 7, 2018|88%|8|97%|230|
+BBC America|tv|https://www.rottentomatoes.com/tv/doctor_who/s11|Oct 7, 2018|94%|37|34%|2,810|
+Hulu|tv|https://www.rottentomatoes.com/tv/harlots/s02|Jul 11, 2018|100%|7|100%|94|
+ABC|tv|https://www.rottentomatoes.com/tv/single_parents/s01|Sep 26, 2018|73%|15|75%|68|
+CBS|tv|https://www.rottentomatoes.com/tv/the_neighborhood/s01|Oct 1, 2018|24%|17|53%|71|
+A&E|tv|https://www.rottentomatoes.com/tv/marcia_clark_investigates_the_first_48/s01|Mar 29, 2018|100%|1|66%|5|
+Comedy Central|tv|https://www.rottentomatoes.com/tv/corporate/s01|Jan 17, 2018|85%|13|76%|39|
+BBC Four|tv|https://www.rottentomatoes.com/tv/snatches_moments_from_women_s_lives/s01|Jun 18, 2018|67%|6||0|
+Cartoon Network|tv|https://www.rottentomatoes.com/tv/the_venture_bros/s07|Aug 5, 2018|100%|10|100%|8|
+Amazon|tv|https://www.rottentomatoes.com/tv/sneaky_pete/s02|Mar 9, 2018|91%|11|92%|232|
+CBS|tv|https://www.rottentomatoes.com/tv/living_biblically/s01|Feb 26, 2018|18%|17|61%|51|
+DisneyXD|tv|https://www.rottentomatoes.com/tv/marvel_rising_initiation/s01|Aug 13, 2018|80%|5|50%|9|
+HBO|tv|https://www.rottentomatoes.com/tv/axios/s01|Nov 4, 2018|0%|1||0|
+Netflix|tv|https://www.rottentomatoes.com/tv/dogs/s01|Nov 16, 2018|92%|12|||
+OWN|tv|https://www.rottentomatoes.com/tv/love_is_/s01|Jun 19, 2018|80%|10|90%|88|
+Netflix|tv|https://www.rottentomatoes.com/tv/arrested_development/39740|May 4, 2018|27%|11|64%|44|
+History Channel|tv|https://www.rottentomatoes.com/tv/watergate/s01|Nov 2, 2018|100%|9|100%|2|
+Bravo|tv|https://www.rottentomatoes.com/tv/southern_charm/s05|Apr 5, 2018|100%|2||0|
+NBC|tv|https://www.rottentomatoes.com/tv/will-grace/s10|Oct 4, 2018|50%|2|80%|18|
+Netflix|tv|https://www.rottentomatoes.com/tv/evil_genius_the_true_story_of_america_s_most_diabolical_bank_heist/s01|May 11, 2018|80%|30|83%|163|
+FOX|tv|https://www.rottentomatoes.com/tv/the_gifted/s02|Sep 25, 2018|82%|11|81%|114|
+Disney XD|tv|https://www.rottentomatoes.com/tv/star_wars_resistance/s01|Oct 7, 2018|92%|13|77%|2,604|
+MTV|tv|https://www.rottentomatoes.com/tv/jersey_shore_family_vacation/s01|Apr 5, 2018|86%|7|80%|33|
+Netflix|tv|https://www.rottentomatoes.com/tv/fauda/s02|May 24, 2018|100%|2|95%|29|
+CBS|tv|https://www.rottentomatoes.com/tv/happy_together/s01|Oct 1, 2018|61%|18|79%|78|
+YouTube Premium|tv|https://www.rottentomatoes.com/tv/step_up_high_water/s01|Jan 31, 2018|100%|1|88%|76|
+E!|tv|https://www.rottentomatoes.com/tv/keeping_up_with_the_kardashians/s15|Aug 5, 2018|100%|1||4|
+CBS All Access|tv|https://www.rottentomatoes.com/tv/strange_angel/s01|Jun 14, 2018|75%|16|94%|45|
+Netflix|tv|https://www.rottentomatoes.com/tv/flint_town/s01|Mar 2, 2018|95%|20|91%|124|
+Hulu|tv|https://www.rottentomatoes.com/tv/into_the_dark/s01|Oct 5, 2018|41%|16|78%|27|
+ABC|tv|https://www.rottentomatoes.com/tv/the_last_defense/s01|Jun 12, 2018|50%|2|100%|3|
+USA|tv|https://www.rottentomatoes.com/tv/suits/s08|Jul 18, 2018|100%|10|73%|109|
+Netflix|tv|https://www.rottentomatoes.com/tv/comedians_in_cars_getting_coffee/s10|Jul 6, 2018|66%|3|60%|13|
+ABC|tv|https://www.rottentomatoes.com/tv/modern_family/s10|Sep 26, 2018|50%|2|75%|33|
+SyFy|tv|https://www.rottentomatoes.com/tv/the_magicians/s03|Jan 10, 2018|100%|10|85%|333|
+CBS All Access|tv|https://www.rottentomatoes.com/tv/tell_me_a_story/s01|Oct 31, 2018|54%|13|78%|34|
+PBS|tv|https://www.rottentomatoes.com/tv/the_miniaturist/s01|Sep 9, 2018|73%|15|80%|75|
+CW|tv|https://www.rottentomatoes.com/tv/the_100/s05|Apr 24, 2018|100%|11|83%|633|
+FOX|tv|https://www.rottentomatoes.com/tv/la_to_vegas/s01|Jan 2, 2018|50%|18|86%|154|
+E!|tv|https://www.rottentomatoes.com/tv/busy_tonight/s01|Oct 28, 2018|0%|1|44%|38|
+FOX|tv|https://www.rottentomatoes.com/tv/the_resident/s01|Jan 21, 2018|60%|20|86%|437|
+TBS|tv|https://www.rottentomatoes.com/tv/final_space/s01|Feb 26, 2018|70%|10|95%|769|
+FOX|tv|https://www.rottentomatoes.com/tv/the_simpsons/s30|Sep 30, 2018|100%|1|58%|16|
+Amazon|tv|https://www.rottentomatoes.com/tv/mozart_in_the_jungle/s04|Feb 16, 2018|100%|9|97%|81|
+CW|tv|https://www.rottentomatoes.com/tv/crazy_ex_girlfriend/s04|Oct 12, 2018|100%|11|82%|57|
+CBS|tv|https://www.rottentomatoes.com/tv/the_big_bang_theory/s12|Sep 24, 2018|100%|1|76%|37|
+Cartoon Network|tv|https://www.rottentomatoes.com/tv/harvey_birdman_attorney_at_law/47875|Oct 14, 2018|100%|1||0|
+Sundance|tv|https://www.rottentomatoes.com/tv/hap_and_leonard/s03|Mar 7, 2018|100%|8|89%|48|
+ABC|tv|https://www.rottentomatoes.com/tv/for_the_people/s01|Mar 13, 2018|69%|16|82%|103|
+Netflix|tv|https://www.rottentomatoes.com/tv/the_break_with_michelle_wolf/s01|May 27, 2018|79%|14|63%|226|
+DC Universe|tv|https://www.rottentomatoes.com/tv/titans/s01|Oct 12, 2018|85%|33|81%|1,624|
+Hulu|tv|https://www.rottentomatoes.com/tv/casual/s04|Jul 31, 2018|86%|7|100%|23|
+Netflix|tv|https://www.rottentomatoes.com/tv/daredevil/s03|Oct 19, 2018|96%|49|96%|2,216|
+A&E|tv|https://www.rottentomatoes.com/tv/the_clinton_affair/s01|Nov 18, 2018|71%|7|||
+Netflix|tv|https://www.rottentomatoes.com/tv/aggretsuko/s01|Apr 20, 2018|100%|13|94%|61|
+Netflix|tv|https://www.rottentomatoes.com/tv/the_comedy_lineup/s01|Jul 3, 2018|100%|6|0%|2|
+Lifetime (Seasons 1-3) Hulu (Season 4)|tv|https://www.rottentomatoes.com/tv/unreal/s04|Jun 25, 2018|55%|11|78%|26|
+Acorn TV|tv|https://www.rottentomatoes.com/tv/jack_irish/s02|Sep 10, 2018|100%|1||0|
+AMC|tv|https://www.rottentomatoes.com/tv/preacher/s03|Jun 24, 2018|92%|11|90%|182|
+FOX|tv|https://www.rottentomatoes.com/tv/the_cool_kids/s01|Sep 28, 2018|65%|17|83%|59|
+Netflix|tv|https://www.rottentomatoes.com/tv/wanderlust/s01|Oct 19, 2018|76%|34|76%|77|
+Starz|tv|https://www.rottentomatoes.com/tv/ash_vs_evil_dead/s03|Feb 25, 2018|100%|15|96%|334|
+Netflix|tv|https://www.rottentomatoes.com/tv/love/s03|Mar 9, 2018|100%|11|85%|119|
+SyFy|tv|https://www.rottentomatoes.com/tv/channel_zero/30671|Feb 7, 2018|100%|9|86%|97|
+HBO|tv|https://www.rottentomatoes.com/tv/high_maintenance/s02|Jan 19, 2018|100%|21|96%|41|
+AMC|tv|https://www.rottentomatoes.com/tv/james_cameron_s_story_of_science_fiction/s01|Apr 30, 2018|80%|5|85%|10|
+Netflix|tv|https://www.rottentomatoes.com/tv/made_in_mexico/s01|Sep 28, 2018|100%|1|42%|31|
+ABC (Australia)|tv|https://www.rottentomatoes.com/tv/mystery_road/s01|Aug 20, 2018|100%|14|100%|6|
+HBO|tv|https://www.rottentomatoes.com/tv/pod_save_america/s01|Oct 12, 2018|100%|2|100%|2|
+IFC|tv|https://www.rottentomatoes.com/tv/portlandia/s08|Jan 18, 2018|88%|8|72%|13|
+Lifetime|tv|https://www.rottentomatoes.com/tv/mary_kills_people/s02|Mar 12, 2018|100%|5|100%|21|
